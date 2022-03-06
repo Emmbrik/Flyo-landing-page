@@ -1,10 +1,13 @@
 *{
     margin: auto 0;
+    box-sizing: border-box;
+    /* border: 1px solid red; */
 }
 
 
 body{
     font-family: raleway;
+    max-width: 100vw;
 }
 
 .container{
@@ -349,6 +352,10 @@ input{
     .box{
         display: flex;
         justify-content: center;
+    }
+
+    .cover{
+        flex-direction: column-reverse;
     }
 
 }
