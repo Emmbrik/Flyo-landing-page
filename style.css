@@ -102,7 +102,7 @@ h5{
 input{
     padding: 4px 56px 4px 16px;
     border-radius: 4px;
-    height: 30px;
+    height: 40px;
     margin-right: 8px;
     font-size: 14px;
     border: 0.8px solid hsl(0, 0%, 75%);
@@ -112,8 +112,8 @@ input{
 .sub_section{
     background-color: hsl(240, 75%, 98%);
     width: cover;
-    padding: 72px 0px 72px;
-    margin-top: 25%;
+    padding: 88px 0px 88px;
+    margin-top: 10%;
 }
 
 
